@@ -1,0 +1,33 @@
+{
+  "idea": "A landing page for my startup: \n\nMechanistic models whose every number says where it came from.\nDescribe a mechanism in plain words; Caterva-Sim builds the model, fills its constants from the literature with the reference each came from, and says plainly which numbers nobody has measured.",
+  "templateId": "bold",
+  "content": {
+    "siteKind": "business",
+    "title": "Caterva‑Sim",
+    "tagline": "Mechanistic models with traceable numbers",
+    "intro": "We turn plain‑language mechanisms into full mathematical models, automatically pulling constants from the literature and showing each source.",
+    "sections": [
+      {
+        "title": "Automatic model building",
+        "body": "Describe a process in words and our engine creates the corresponding equations instantly."
+      },
+      {
+        "title": "Literature‑backed constants",
+        "body": "Every parameter is sourced from published data, with full citations attached."
+      },
+      {
+        "title": "Transparent gaps",
+        "body": "Numbers that lack measurement are flagged, with clear notes on their inferred status."
+      }
+    ],
+    "cta": {
+      "label": "Contact us",
+      "note": "Request a demo or discuss a custom model"
+    },
+    "closing": {
+      "headline": "Turn ideas into reproducible models",
+      "body": "With Caterva‑Sim you always know where each number came from."
+    },
+    "footerNote": "Science made traceable"
+  }
+}
